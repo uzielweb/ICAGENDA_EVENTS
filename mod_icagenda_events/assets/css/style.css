@@ -1,0 +1,66 @@
+.myev-image-out {}
+.img-thumbnail.myev-image {}
+.myev-dmy-out {}
+.myev-day {
+  font-size: 2em;
+  font-weight: 600;
+}
+.myev-month-year {
+  text-transform: uppercase;
+}
+.myev-short-desc{
+
+}
+.myev-inner {
+  padding-bottom: 10px;
+}
+.myev-place-out > h4 {
+  font-size: 2em;
+  font-weight: 300;
+}
+.myev-out > div {
+  display: table-cell;
+  position: relative;
+}
+.myev-inner > h4 {
+  font-size: 2em;
+  font-weight: 300;
+  margin: 0;
+  padding: 0;
+}
+
+.myev-place-out {}
+.myev-place {}
+.myev-time-feature-out {}
+  .myev-time {
+    font-size: 2em;
+    font-weight: 300;
+  }
+  .myev-until{
+    font-size: o.9em;
+    font-style: italic;
+  }
+.myev-feature {}
+.myev-button-out {}
+  .btn.button.myev-button {
+    background: #00bbd2 none repeat scroll 0 0;
+    border: 0 none;
+    border-radius: 0;
+    box-shadow: none;
+    color: #fff;
+    font-weight: bold;
+    padding: 15px 30px;
+    text-transform: uppercase;
+    width: 100%;
+  }
+  .myev-out p {
+    margin: 0;
+    padding: 0;
+
+  }
+
+  .myev-out {
+      display: flex;
+    border-bottom: 1px solid #d7d7d7;
+    margin-bottom: 10px;
+  }
